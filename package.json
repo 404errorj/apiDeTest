@@ -1,0 +1,24 @@
+{
+  "name": "apidetest",
+  "version": "1.0.0",
+  "description": "une api en locale qui stock les donneés pour des testes d'appication, tester des crud, finn ce genre de chose quoi...",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mon api"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "EXPRESSJS",
+    "backend"
+  ],
+  "author": "RAZAFINDRAFAIGA Handroso Jacob",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
